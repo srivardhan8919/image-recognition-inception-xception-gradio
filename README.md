@@ -53,5 +53,5 @@ This project is licensed under the **MIT License**.
 
 For any queries or suggestions:
 - GitHub: https://github.com/srivardhan8919
-- LinkedIn: linkedin.com/in/sri-vardhan-nutenki-207b55249
+- LinkedIn: https://linkedin.com/in/sri-vardhan-nutenki-207b55249
 - G-mail: srivardhannani8919@gmail.com
